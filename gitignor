@@ -1,0 +1,4 @@
+*.log
+/dir
+this is change now
+db.accdb
